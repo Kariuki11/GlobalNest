@@ -43,7 +43,7 @@ cp env.example .env
 npm run dev
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -55,13 +55,13 @@ src/
 └── utils/              # Utility functions
 ```
 
-## 🚀 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 
-## 📱 Pages
+##  Pages
 
 - `/` - Landing page (redirects to dashboard)
 - `/login` - Authentication
@@ -73,7 +73,7 @@ src/
 - `/news` - Financial news
 - `/settings` - User settings
 
-## 🔧 Development
+##  Development
 
 This is a frontend-only application that interfaces with a backend API. The backend should provide endpoints for:
 
@@ -82,6 +82,6 @@ This is a frontend-only application that interfaces with a backend API. The back
 - Portfolio management (`/api/portfolio`, `/api/invest`)
 - News feed (`/api/news`)
 
-## 📄 License
+##  License
 
 MIT License
