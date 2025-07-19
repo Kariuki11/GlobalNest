@@ -10,7 +10,7 @@ A modern fintech web application for virtual investment in treasury bonds, inter
 - **Financial News**: Latest market news and updates
 - **Responsive Design**: Mobile-first, modern UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 18** with Vite
 - **Tailwind CSS** for styling
