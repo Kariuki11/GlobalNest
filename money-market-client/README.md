@@ -2,7 +2,7 @@
 
 A modern fintech web application for virtual investment in treasury bonds, international stocks, and cryptocurrencies.
 
-## 🚀 Features
+## Features
 
 - **Virtual Investment Platform**: Simulate investments without real money
 - **Real-time Market Data**: Live crypto, stocks, and bonds data
@@ -10,7 +10,7 @@ A modern fintech web application for virtual investment in treasury bonds, inter
 - **Financial News**: Latest market news and updates
 - **Responsive Design**: Mobile-first, modern UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18** with Vite
 - **Tailwind CSS** for styling
@@ -19,7 +19,7 @@ A modern fintech web application for virtual investment in treasury bonds, inter
 - **Recharts** for data visualization
 - **Lucide React** for icons
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
