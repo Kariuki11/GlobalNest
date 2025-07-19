@@ -2,7 +2,7 @@
 
 A modern fintech web application for virtual investment in treasury bonds, international stocks, and cryptocurrencies.
 
-## 🚀 Features
+## Features
 
 - **Virtual Investment Platform**: Simulate investments without real money
 - **Real-time Market Data**: Live crypto, stocks, and bonds data
@@ -19,7 +19,7 @@ A modern fintech web application for virtual investment in treasury bonds, inter
 - **Recharts** for data visualization
 - **Lucide React** for icons
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -43,7 +43,7 @@ cp env.example .env
 npm run dev
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -73,7 +73,7 @@ src/
 - `/news` - Financial news
 - `/settings` - User settings
 
-## 🔧 Development
+## Development
 
 This is a frontend-only application that interfaces with a backend API. The backend should provide endpoints for:
 
@@ -82,6 +82,6 @@ This is a frontend-only application that interfaces with a backend API. The back
 - Portfolio management (`/api/portfolio`, `/api/invest`)
 - News feed (`/api/news`)
 
-## 📄 License
+## License
 
 MIT License
