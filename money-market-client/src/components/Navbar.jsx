@@ -49,8 +49,8 @@ export default function Navbar() {
         <div className="relative">
           <Button variant="outline" className="px-2" tabIndex={0}>
             <span className="sr-only">Toggle theme</span>
-            {theme === "light" && <span>🌞</span>}
-            {theme === "dark" && <span>🌚</span>}
+            {theme === "light" && <span>☀️</span>}
+            {theme === "dark" && <span>🌙</span>}
             {theme === "system" && <span>💻</span>}
           </Button>
           <div className="absolute right-0 mt-2 w-32 bg-white dark:bg-gray-800 border rounded shadow z-10">
@@ -66,10 +66,10 @@ export default function Navbar() {
           </div>
         </div>
         <Button variant="outline" asChild>
-          <a href="/login">Login</a>
+          <a href="/login">Sign In</a>
         </Button>
         <Button asChild>
-          <a href="/register">Sign Up</a>
+          <a href="/register">Sign Up</a> 
         </Button>
       </div>
     </nav>
